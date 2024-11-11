@@ -1,0 +1,5 @@
+food(burger)
+food(meal)
+food(dinner)
+food(pani puri)
+lunch(meal)
